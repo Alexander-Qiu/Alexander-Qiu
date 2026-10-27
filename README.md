@@ -22,6 +22,9 @@ Bachelor’s, Electronic Information and Technology · 2018–2022
 [CLI-Universe: Towards Verifiable Task Synthesis Engine for Terminal Agents](https://arxiv.org/abs/2606.22883)  
 Co-author · arXiv preprint, 2026
 
+[Room temperature field-free switching of CoFeB/MgO heterostructure based on large-scale few-layer WTe₂](https://doi.org/10.1016/j.xcrp.2023.101468)  
+Co-author · Cell Reports Physical Science, 2023
+
 <details>
 <summary>中文</summary>
 
