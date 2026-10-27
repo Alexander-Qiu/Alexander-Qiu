@@ -25,9 +25,3 @@ Co-author · arXiv preprint, 2026
 [Room temperature field-free switching of CoFeB/MgO heterostructure based on large-scale few-layer WTe₂](https://doi.org/10.1016/j.xcrp.2023.101468)  
 Co-author · Cell Reports Physical Science, 2023
 
-<details>
-<summary>中文</summary>
-
-我是邱睿智，目前在 SiliconFlow 做 AI Infra，主要做推理引擎和服务系统。此前在中国联通智算能力中心工作，在燧原科技和第四范式实习，本硕就读于北京航空航天大学。
-
-</details>
