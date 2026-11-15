@@ -2,7 +2,7 @@
 
 AI infrastructure engineer at **SiliconFlow**, based in Beijing. I work on inference engines and serving systems.
 
-[Website](https://Alexander-Qiu.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=gqi0igQAAAAJ&hl=en)
+[Website](https://Alexander-Qiu.github.io/) · [Publications](https://Alexander-Qiu.github.io/#publications)
 
 ### Experience
 
@@ -16,12 +16,3 @@ AI infrastructure engineer at **SiliconFlow**, based in Beijing. I work on infer
 **Beihang University**  
 Master’s, Electronic Science and Technology · 2022–2025  
 Bachelor’s, Electronic Information and Technology · 2018–2022
-
-### Publications
-
-[CLI-Universe: Towards Verifiable Task Synthesis Engine for Terminal Agents](https://arxiv.org/abs/2606.22883)  
-Co-author · arXiv preprint, 2026
-
-[Room temperature field-free switching of CoFeB/MgO heterostructure based on large-scale few-layer WTe₂](https://doi.org/10.1016/j.xcrp.2023.101468)  
-Co-author · Cell Reports Physical Science, 2023
-
