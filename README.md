@@ -4,6 +4,10 @@ AI infrastructure engineer at **SiliconFlow**, based in Beijing. I work on infer
 
 [Website](https://Alexander-Qiu.github.io/) · [Publications](https://Alexander-Qiu.github.io/#publications)
 
+### Outside work
+
+I enjoy running and have competed in the 400 meters.
+
 ### Experience
 
 - **SiliconFlow** · AI Infrastructure Engineer · Aug 2026–present
