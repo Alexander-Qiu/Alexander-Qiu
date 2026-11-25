@@ -6,7 +6,7 @@ AI infrastructure engineer at **SiliconFlow**, based in Beijing. I work on infer
 
 ### Outside work
 
-I enjoy running and have competed in the 400 meters.
+I enjoy running and singing.
 
 ### Experience
 
